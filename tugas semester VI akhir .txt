@@ -1,0 +1,7 @@
+Nama Project : Aplikasi Penjulan 
+Deskripsi :
+Project ini merupakan lanjutan dari project sebelumnya di semester 5
+
+Apa yang baru?
+1. Tambahan Database
+2. Tampilan yang lebih menarik
